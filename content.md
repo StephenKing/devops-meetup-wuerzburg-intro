@@ -2,7 +2,8 @@ class: center, middle, inverse
 
 # Willkommen
 
-## zum ersten DevOps-Meetup Würzburg / Mainfranken
+## zum ersten DevOps-Meetup
+![Default-aligned image](images/devops_s.png)
 
 
 ---
@@ -10,10 +11,15 @@ class: center, middle, inverse
 # Programm
 
 - Was ist ein Meetup und was stellen wir uns vor?
+
 - Was stellt ihr euch vor?
+
 - Vortrag 1...
+
 - Pause
+
 - Vortrag 2
+
 - Diskussion & weitere Planung 
 
 ???
@@ -24,27 +30,37 @@ Hier kann man Notizen schreiben :-)
 # Organisatoren
 
 - Steffen Gebert, Universität Würzburg
-- Andreas Rudat, mayflower
+
+- Andreas Rudat, Mayflower GmbH
+
 - Sebastian Kremer, Eikona
 
 ---
-# Ziel des Meetups
+# Wieso wollen wir Meetups?
 
--
--
+- Erfahrung- und Wissensaustausch
+
+- Weiterbildung
+
+- Von einander lernen
+
+- Vernetzung untereinander
 
 ---
 # Meetup.com
 
-- bitte alle in die Meetup-Gruppe!
-- werdet dannn übere weitere Treffen informiert
-- 
+- Tragt euch bitte alle in die Meetup-Gruppe ein!
+
+- Zentrale Anlaufstelle für weitere Informationen
 
 ---
-# Danke!
 
-- Mayflower für das Sponsoring der Pizza
+# .center[Danke!]
 
+.center[![Center-aligned image](images/applause.gif)]
+- Für euer Interesse und Erscheinen :)
+
+- Mayflower für das Sponsoring der Pizza und Getränke
 
 
 ---
