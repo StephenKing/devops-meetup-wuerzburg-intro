@@ -20,7 +20,7 @@ class: center, middle, inverse
 
 - Vortrag 2
 
-- Diskussion & weitere Planung 
+- Diskussion & weitere Planung
 
 ???
 
@@ -46,6 +46,8 @@ Hier kann man Notizen schreiben :-)
 
 - Vernetzung untereinander
 
+- Nachwuchs fördern
+
 ---
 # Meetup.com
 
@@ -58,6 +60,7 @@ Hier kann man Notizen schreiben :-)
 # .center[Danke!]
 
 .center[![Center-aligned image](images/applause.gif)]
+
 - Für euer Interesse und Erscheinen :)
 
 - Mayflower für das Sponsoring der Pizza und Getränke
