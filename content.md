@@ -16,24 +16,33 @@ class: center, middle, inverse
 
 - Vortrag 1...
 
-- Pause
+- Pause (mit Pizza)
 
 - Vortrag 2
 
 - Diskussion & weitere Planung
 
+
+---
+class: center, middle
+
+Hallo
+
+# du!
+
 ???
 
-Hier kann man Notizen schreiben :-)
+Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, Geschäftsführer oder Professor sind..
+
 
 ---
 # Organisatoren
 
 - Steffen Gebert, Universität Würzburg
 
-- Andreas Rudat, Mayflower GmbH
+- Andreas Rudat, Mayflower GmbH, Würzburg
 
-- Sebastian Kremer, Eikona
+- Sebastian Kremer, Eikona AG, Volkach
 
 ---
 # Wieso wollen wir Meetups?
@@ -49,27 +58,39 @@ Hier kann man Notizen schreiben :-)
 - Nachwuchs fördern
 
 ---
+# Wieso wollen wir _dieses_ Meetup?
+
+- Gemeinsames Interesse am (breiten) Themenfeld "DevOps"
+
+- Fokus auf technische Aspekte
+
+- Kultur: _Agile Usergroup Unterfranken_
+
+- Themenauswahl: Bevorzugt durch _uns alle_!
+
+???
+
+Evtl Überschrift nicht ganz passend. "Unsere Vorüberlegungen"
+
+---
 # Meetup.com
 
-- Tragt euch bitte alle in die Meetup-Gruppe ein!
+.left-column[
+- Bitte in Meetup-Gruppe eintragen!
 
-- Zentrale Anlaufstelle für weitere Informationen
+- Anlaufstelle für weitere Informationen
 
----
+- Ankündigung weiterer Treffen
 
-# .center[Danke!]
-
-.center[![Center-aligned image](images/applause.gif)]
-
-- Für euer Interesse und Erscheinen :)
-
-- Mayflower für das Sponsoring der Pizza und Getränke
+]
+.right-column[![:scale 70%](images/meetup.com.png)]
 
 
----
-class: center, middle
-# Vorstellungsrunde
+???
 
+Außerdem sieht es für Ausenstehende gut ansprechender aus, wenn 
+
+Ggf. weitere spannende Meetups entdecken.
 
 
 ---
@@ -83,6 +104,58 @@ class: center, middle
   - Vortrag & Diskussion (1 langer oder 2/3 kurze Vorträge bevorzugt?)
   - Open Space
 
+- Locations
+  - hier
+  - Mayflower (Frauenland)
+  - Eikona (Volkach)
+  - ??
+
 ---
-# Noch eine Folie
+class: center, middle
+# Vorstellungsrunde
+
+---
+# Vortrag 1
+
+
+## DevOps - neue Antworten auf neue Herausforderungen
+
+Lenz Weber, mayflower
+
+
+---
+class: center, middle, inverted
+
+# Pause & Pizza
+
+sponsored by Mayflower
+
+---
+# Vortrag 2
+
+## Continuous Delivery - Software schneller entwickeln und ans Ziel bringen
+
+Steffen Gebert, Uni Würzburg
+
+---
+class: center, middle
+# Feedbackrunde
+
+---
+# Nächste Meetup(s)
+
+- Brainstorming: Git, Docker, Jenkins, Chef, Puppet, AWS, zsh, ELK, solr, whateverJS, Kubernets, Mesos, 
+
+
+- Sebastian Klenk, Technology Evangelist bei Microsoft
+
+---
+
+# .center[Danke!]
+
+.center[![Center-aligned image](images/applause.gif)]
+
+- Für euer Interesse und Erscheinen :)
+
+- Mayflower für das Sponsoring der Pizza und Getränke
 
