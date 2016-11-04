@@ -14,14 +14,23 @@ class: center, middle, inverse
 
 - Was stellt ihr euch vor?
 
-- Vortrag 1...
+- Vortrag 1 (ca. 20min)
 
-- Pause (mit Pizza)
+- Pause
 
-- Vortrag 2
+- Vortrag 2 (ca. 20min)
 
 - Diskussion & weitere Planung
 
+---
+
+# WLAN
+
+schaffen wir ohne. Können reden.
+
+# Handys
+
+bitte lautlos
 
 ---
 class: center, middle
@@ -34,6 +43,14 @@ Hallo
 
 Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, Geschäftsführer oder Professor sind..
 
+---
+
+# Bitte Aktiv werden
+
+???
+
+Jeder soll / darf mitdiskutieren. Keine Vorlesung
+
 
 ---
 # Organisatoren
@@ -43,6 +60,10 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 - Andreas Rudat, Mayflower GmbH, Würzburg
 
 - Sebastian Kremer, Eikona AG, Volkach
+
+
+- TODO: Hashtags überlegen
+
 
 ---
 # Wieso wollen wir Meetups?
@@ -62,11 +83,25 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 
 - Gemeinsames Interesse am (breiten) Themenfeld "DevOps"
 
-- Fokus auf technische Aspekte
 
-- Kultur: _Agile Usergroup Unterfranken_
+![:scale 100%](images/devops-in-a-slide.png)
+
+---
+# Wieso wollen wir _dieses_ Meetup?
+
+- Gemeinsames Interesse am (breiten) Themenfeld "DevOps"
+ 
+
+- Heute vorwiegend kulturelle Aspekte
+- Später Fokus auf technische Aspekte
+
+
+- DevOps-Kultur: _Agile Usergroup Unterfranken_
+- JavasScript
 
 - Themenauswahl: Bevorzugt durch _uns alle_!
+  - Auf Kärtchen ein oder mehrere Themen schreiben
+  - Vorträge dementsprechen
 
 ???
 
@@ -77,6 +112,10 @@ Evtl Überschrift nicht ganz passend. "Unsere Vorüberlegungen"
 
 .left-column[
 - Bitte in Meetup-Gruppe eintragen!
+
+- Folien
+ 
+- Themensammlung
 
 - Anlaufstelle für weitere Informationen
 
@@ -109,10 +148,14 @@ Ggf. weitere spannende Meetups entdecken.
   - Mayflower (Frauenland)
   - Eikona (Volkach)
   - ??
+  
+- In Meetup bewerten und kommentieren!
 
 ---
 class: center, middle
 # Vorstellungsrunde
+
+3 Hashtags zu persönlichen Interessen
 
 ---
 # Vortrag 1
@@ -126,7 +169,7 @@ Lenz Weber, mayflower
 ---
 class: center, middle, inverted
 
-# Pause & Pizza
+# Pause
 
 sponsored by Mayflower
 
@@ -139,15 +182,21 @@ Steffen Gebert, Uni Würzburg
 
 ---
 class: center, middle
-# Feedbackrunde
+# Feedbackrunde & Diskussion
 
 ---
 # Nächste Meetup(s)
 
 - Brainstorming: Git, Docker, Jenkins, Chef, Puppet, AWS, zsh, ELK, solr, whateverJS, Kubernets, Mesos, 
 
+- Jemand konkreten Themenvorschlag?
 
 - Sebastian Klenk, Technology Evangelist bei Microsoft
+
+---
+# Buchverlosung
+
+![:scale 40%](images/DevOpsHandbook.png)
 
 ---
 
