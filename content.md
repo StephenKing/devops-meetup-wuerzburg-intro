@@ -90,18 +90,20 @@ Jeder soll / darf mitdiskutieren. Keine Vorlesung
 # Wieso wollen wir _dieses_ Meetup?
 
 - Gemeinsames Interesse am (breiten) Themenfeld "DevOps"
- 
 
-- Heute vorwiegend kulturelle Aspekte
-- Später Fokus auf technische Aspekte
+  - Heute vorwiegend kulturelle Aspekte
+  - Später Fokus auf technische Aspekte
 
+- Abgrenzung (andere Meetups):
 
-- DevOps-Kultur: _Agile Usergroup Unterfranken_
-- JavasScript
+  - Kultur: _Agile Usergroup Unterfranken_
+  - Webentwicklung/JavaScript: _Front End Würzburg_
 
 - Themenauswahl: Bevorzugt durch _uns alle_!
+
   - Auf Kärtchen ein oder mehrere Themen schreiben
-  - Vorträge dementsprechen
+  - Versuchen Vorträge danach zu richten
+  - Du kannst was erzählen? Sprich uns an!
 
 ???
 
