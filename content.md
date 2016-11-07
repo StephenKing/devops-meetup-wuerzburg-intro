@@ -14,11 +14,11 @@ class: center, middle, inverse
 
 - Was stellt ihr euch vor?
 
-- Vortrag 1 (ca. 20min)
+- Vortrag 1 (ca. 20-30min)
 
 - Pause
 
-- Vortrag 2 (ca. 20min)
+- Vortrag 2 (ca. 20-30min)
 
 - Diskussion & weitere Planung
 
