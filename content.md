@@ -45,11 +45,20 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 
 ---
 
-# Bitte Aktiv werden
+# Bitte Aktiv werden!
 
-???
+- Jeder soll / darf mitdiskutieren
 
-Jeder soll / darf mitdiskutieren. Keine Vorlesung
+- Dies ist _keine_ Vorlesung
+
+- Themen richten sich nach Interesse (und Vortragenden :-))
+
+
+### Vorbereitung Vorstellungsrunde
+
+- 3 "Hashtags" überlegen
+
+
 
 
 ---
