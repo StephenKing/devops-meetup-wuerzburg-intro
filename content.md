@@ -59,8 +59,28 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 - 3 "Hashtags" überlegen
 
 
+---
 
+# Kurzumfrage
 
+- Fühlt ihr euch eher als
+  - Entwickler
+  - Admin
+  - Beides
+  - Projektmanagement etc.
+  - nichts
+  
+- Arbeitsumfeld
+  - Studierende(r)
+  - Uni-Mitarbeiter
+  - IT-Firma / Web-Agentur etc.
+  - Sonstige Branche
+
+- Herkunft
+  - Würzburg
+  - Landkreis Würzburg
+  - außerhalb
+    
 ---
 # Organisatoren
 
