@@ -204,7 +204,7 @@ class: center, middle
 ---
 # Nächste Meetup(s)
 
-- Brainstorming: Git, Docker, Jenkins, Chef, Puppet, AWS, zsh, ELK, solr, whateverJS, Kubernets, Mesos, 
+- Themensammlung (Kärtchen)
 
 - Jemand konkreten Themenvorschlag?
 
