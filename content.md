@@ -62,11 +62,12 @@ Jeder soll / darf mitdiskutieren. Keine Vorlesung
 - Sebastian Kremer, Eikona AG, Volkach
 
 
-- TODO: Hashtags überlegen
 
 
 ---
 # Wieso wollen wir Meetups?
+
+- aka. _"User Groups"_
 
 - Erfahrung- und Wissensaustausch
 
@@ -124,7 +125,7 @@ Evtl Überschrift nicht ganz passend. "Unsere Vorüberlegungen"
 - Ankündigung weiterer Treffen
 
 ]
-.right-column[![:scale 70%](images/meetup.com.png)]
+.right-column[![:scale 100%](images/meetup.com.png)]
 
 
 ???
@@ -133,6 +134,11 @@ Außerdem sieht es für Ausenstehende gut ansprechender aus, wenn
 
 Ggf. weitere spannende Meetups entdecken.
 
+
+---
+# Weitere Meetups in der Nähe
+
+![:scale 70%](images/meetups-wuerzburg.png)
 
 ---
 # Weiteres Vorgehen
