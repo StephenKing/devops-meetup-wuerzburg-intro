@@ -53,7 +53,7 @@ Hallo
 Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, Geschäftsführer oder Professor sind..
 
 ---
-
+name: aktiv
 # Bitte Aktiv werden!
 
 - Jeder soll / darf mitdiskutieren
@@ -62,6 +62,8 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 
 - Themen richten sich nach Interesse (und Vortragenden :-))
 
+---
+template: aktiv
 
 ### Vorbereitung Vorstellungsrunde
 
@@ -69,6 +71,7 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 
 
 ---
+name: poll
 
 # Kurzumfrage
 
@@ -79,11 +82,19 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
   - Projektmanagement etc.
   - nichts
   
+---
+name: poll2
+template: poll
+  
 - Arbeitsumfeld
   - Studierende(r)
   - Uni-Mitarbeiter
   - IT-Firma / Web-Agentur etc.
   - Sonstige Branche
+
+
+---
+template: poll2
 
 - Herkunft
   - Würzburg
@@ -126,6 +137,8 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 ![:scale 100%](images/devops-in-a-slide.png)
 
 ---
+name: motivation
+
 # Wieso wollen wir _dieses_ Meetup?
 
 - Gemeinsames Interesse am (breiten) Themenfeld "DevOps"
@@ -133,15 +146,22 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
   - Heute vorwiegend kulturelle Aspekte
   - Später Fokus auf technische Aspekte
 
+---
+name: motivation2
+template: motivation
+
 - Abgrenzung (andere Meetups):
 
   - Kultur: _Agile Usergroup Unterfranken_
   - Webentwicklung/JavaScript: _Front End Würzburg_
 
+---
+template: motivation2
+
 - Themenauswahl: Bevorzugt durch _uns alle_!
 
   - Auf Kärtchen ein oder mehrere Themen schreiben
-  - Versuchen Vorträge danach zu richten
+  - Wir versuchen Vortragende zu finden
   - Du kannst was erzählen? Sprich uns an!
 
 ???
@@ -179,15 +199,24 @@ Ggf. weitere spannende Meetups entdecken.
 ![:scale 70%](images/meetups-wuerzburg.png)
 
 ---
+name: how-to-proceed
 # Weiteres Vorgehen
 
 - Rhythmus
   - Alle 4/6/8 Wochen?
   - Fixe Wochentage?
 
+---
+name: how-to-proceed2
+template: how-to-proceed
+
 - Programmvarianten
   - Vortrag & Diskussion (1 langer oder 2/3 kurze Vorträge bevorzugt?)
   - Open Space
+
+---
+name: how-to-proceed3
+template: how-to-proceed2
 
 - Locations
   - hier
@@ -195,7 +224,6 @@ Ggf. weitere spannende Meetups entdecken.
   - Eikona (Volkach)
   - ??
   
-- In Meetup bewerten und kommentieren!
 
 ---
 class: center, middle
@@ -253,4 +281,6 @@ class: center, middle
 - Für euer Interesse und Erscheinen :)
 
 - Mayflower für das Sponsoring der Pizza und Getränke
+
+- **Bitte auf _meetup.com_ bewerten und kommentieren!**
 
