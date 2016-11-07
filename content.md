@@ -192,39 +192,6 @@ Außerdem sieht es für Ausenstehende gut ansprechender aus, wenn
 
 Ggf. weitere spannende Meetups entdecken.
 
-
----
-# Weitere Meetups in der Nähe
-
-![:scale 70%](images/meetups-wuerzburg.png)
-
----
-name: how-to-proceed
-# Weiteres Vorgehen
-
-- Rhythmus
-  - Alle 4/6/8 Wochen?
-  - Fixe Wochentage?
-
----
-name: how-to-proceed2
-template: how-to-proceed
-
-- Programmvarianten
-  - Vortrag & Diskussion (1 langer oder 2/3 kurze Vorträge bevorzugt?)
-  - Open Space
-
----
-name: how-to-proceed3
-template: how-to-proceed2
-
-- Locations
-  - hier
-  - Mayflower (Frauenland)
-  - Eikona (Volkach)
-  - ??
-  
-
 ---
 class: center, middle
 # Vorstellungsrunde
@@ -280,7 +247,7 @@ class: center, middle
 
 - Für euer Interesse und Erscheinen :)
 
-- Mayflower für das Sponsoring der Pizza und Getränke
+- Mayflower für das Sponsoring der Snacks und Getränke
 
 - **Bitte auf _meetup.com_ bewerten und kommentieren!**
 
