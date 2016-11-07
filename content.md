@@ -14,7 +14,7 @@ class: center, middle, inverse
 
 - Was stellt ihr euch vor?
 
-- Vortrag 1 (ca. 20-30min)
+- Vortrag 1 (ca. 30min)
 
 - Pause
 
