@@ -24,6 +24,15 @@ class: center, middle, inverse
 
 ---
 
+# Snacks
+
+in der Pause
+
+# Toiletten
+
+direkt gegenüber
+
+
 # WLAN
 
 schaffen wir ohne. Können reden.
