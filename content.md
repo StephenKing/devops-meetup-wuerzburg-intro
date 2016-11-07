@@ -54,7 +54,7 @@ Wir wollen und können alle voneinander lernen, von daher ega, ob wir Student, G
 
 ---
 name: aktiv
-# Bitte Aktiv werden!
+# Bitte aktiv werden!
 
 - Jeder soll / darf mitdiskutieren
 
