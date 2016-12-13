@@ -46,7 +46,7 @@ Hallo
 ---
 # Organisatoren
 
-- Sebastian Kremer, Eikona AG, Volkach
+- Sebastian Kremer, EIKONA Systems GmbH, Volkach
 
 - Steffen Gebert, Universität Würzburg
 
@@ -56,30 +56,25 @@ Hallo
 # Themenwünsche November
 
 * Jenkins (4x)
-
 * Ansible (4x)
-* Docker (Swarm) (2x)
+* Docker / Docker Swarm (2x)
 * Saltstack
 * Chef
-
 * Continuous Integration / Deployment
-  * Jenkins, Gitlab-CI / Welche Vor- und Nachteile für Dev/Ops?
+  * Jenkins, Gitlab-CI - Welche Vor- und Nachteile für Dev/Ops?
   * CI Pipelines - Wer ist in welcher Phase verantwortlich? Dev oder Ops?
   * Konkretes Deployment im DevOps-Ansatz
-
 * "Collective Ownership""
-
 * Feature Toggles
-
 * Cloud Foundry / BOSH
 
 
 ---
 class: center, middle
-# Vorstellungsrunde
+# Vorstellungsrunde (kurz)
 
-
-3 Hashtags zu persönlichen Interessen
+* Name, Beruf/Tätigkeitsbeschreibung
+2 Hashtags zu persönlichen Interessen im Bereich IT oder gar DevOps
 
 
 ---
@@ -87,7 +82,7 @@ class: center, middle
 
 - Für euer Interesse und Erscheinen :)
 
-- Karsten und Sebastian für den Vortrag
+- Karsten und Sebastian von Mcirosoft für den Vortrag
 
 - EIKONA AG für das Sponsoring der Snacks und Getränke
 
