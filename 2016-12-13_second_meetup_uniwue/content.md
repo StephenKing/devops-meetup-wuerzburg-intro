@@ -56,14 +56,18 @@ Hallo
 # Themenwünsche November
 
 * Jenkins (4x)
+
 * Ansible (4x)
+
 * Docker / Docker Swarm (2x)
+
 * Saltstack
 * Chef
 * Continuous Integration / Deployment
   * Jenkins, Gitlab-CI - Welche Vor- und Nachteile für Dev/Ops?
   * CI Pipelines - Wer ist in welcher Phase verantwortlich? Dev oder Ops?
   * Konkretes Deployment im DevOps-Ansatz
+  
 * "Collective Ownership""
 * Feature Toggles
 * Cloud Foundry / BOSH
