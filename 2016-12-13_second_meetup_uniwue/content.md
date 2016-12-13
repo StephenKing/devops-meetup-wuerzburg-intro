@@ -91,7 +91,7 @@ class: center, middle
 
 .center[![:scale 30%](http://www.eikona.de/portal/pics/eikona.de/eikona_logos/logo_eikona_group_black.png)]
 
-- Mayflower GmbH für das Sponsoring der Snacks und Getränke vom 1. Meetup ;)
+- Mayflower für das Sponsoring der Snacks und Getränke vom 1. Meetup ;)
 
 
 - **Bitte auf _meetup.com_ bewerten und kommentieren!**
