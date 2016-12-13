@@ -52,7 +52,7 @@ Hallo
 - Andreas Rudat, Mayflower GmbH, Würzburg
 
 ---
-# Themenwünsche vom 1. Meetup (11/2016)
+# Themenwünsche vom 1. Meetup
 
 * Jenkins (4x)
 
