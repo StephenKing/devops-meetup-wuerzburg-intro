@@ -89,10 +89,11 @@ class: center, middle
 
 - Karsten und Sebastian für den Vortrag
 
-- Eikona für das Sponsoring der Snacks und Getränke
+- EIKONA AG für das Sponsoring der Snacks und Getränke
 
 .center[![:scale 30%](http://www.eikona.de/portal/pics/eikona.de/eikona_logos/logo_eikona_group_black.png)]
 
+- Mayflower GmbH für das Sponsoring der Snacks und Getränke vom 1. Meetup ;)
 
 
 - **Bitte auf _meetup.com_ bewerten und kommentieren!**
