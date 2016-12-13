@@ -13,7 +13,7 @@ class: center, middle, inverse
 
 - Kurzes Intro & Vorstellungsrunde
 
-- Vortrag zur DevOps-Transformati­on bei Microsoft
+- Vortrag zur DevOps-Transformation bei Microsoft
 
 - Diskussion, ggf. Open Spaces
 
@@ -26,7 +26,6 @@ nach dem Vortrag
 # Toiletten
 
 direkt gegenüber
-
 
 # WLAN
 
@@ -53,7 +52,7 @@ Hallo
 - Andreas Rudat, Mayflower GmbH, Würzburg
 
 ---
-# Themenwünsche November
+# Themenwünsche vom 1. Meetup (11/2016)
 
 * Jenkins (4x)
 
