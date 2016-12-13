@@ -76,8 +76,8 @@ Hallo
 class: center, middle
 # Vorstellungsrunde (kurz)
 
-* Name, Beruf/Tätigkeitsbeschreibung
-2 Hashtags zu persönlichen Interessen im Bereich IT oder gar DevOps
+* Name, Beruf
+* 2 Hashtags zu persönlichen Interessen im Bereich IT oder gar DevOps
 
 
 ---
