@@ -73,7 +73,6 @@ Hallo
 
 
 ---
-class: center, middle
 # Vorstellungsrunde (kurz)
 
 * Name, Beruf
