@@ -44,7 +44,7 @@ Hallo
 
 - Sebastian Kremer, EIKONA Systems GmbH, Volkach
 
-- Steffen Gebert, Universität Würzburg
+- Steffen Gebert, Würzburg
 
 - Andreas Rudat, Mayflower GmbH, Würzburg
 
