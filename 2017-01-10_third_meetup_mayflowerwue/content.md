@@ -69,6 +69,10 @@ Hallo
 
 - **Bitte auf _meetup.com_ bewerten und kommentieren!**
 
+
+- MeetUp Modern Software Development hier im Office am 24.01.2017
+
+
 ---
 # Vortrag
 
