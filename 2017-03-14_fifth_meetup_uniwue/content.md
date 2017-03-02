@@ -51,6 +51,7 @@ class: center, middle, inverse
 
 - Macht Werbung
   - Xing Event
+  - Twitter #DevOpsWue
   - Facebook
   - Mund-zu-Mund Propaganda
 
