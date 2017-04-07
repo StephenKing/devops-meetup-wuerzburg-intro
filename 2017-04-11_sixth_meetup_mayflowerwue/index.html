@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Title</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+
+      body {
+          font-family: 'Droid Serif';
+      }
+      h1, h2, h3 {
+          font-family: 'Share-Bold';
+          font-weight: 400;
+          margin-bottom: 0;
+          color: #464a53;
+      }
+      .remark-slide-content h1 { font-size: 2.7em; }
+      .remark-slide-content h2 { font-size: 2em; }
+      .remark-slide-content h3 { font-size: 1.6em; }
+      .footnote {
+          position: absolute;
+          bottom: 3em;
+      }
+      .easter-egg-r {color:red;}
+      .easter-egg-g {color:palegreen;}
+      .easter-egg-v {color:greenyellow;}
+      .easter-egg-y {color:yellow;}
+      .easter-egg-c {color:cyan;}
+      .easter-egg-b {color:cornflowerblue;}
+      li p { line-height: 1.25em; }
+      .red { color: #fa0000; }
+      .green { color: #4d964d; }
+      .grey { color: #aaa; }
+      .large { font-size: 2em; }
+      a, a > code {
+          color: #6176a5;
+          text-decoration: none;
+      }
+      code {
+          background: #e7e8e2;
+          border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono' typewriter; }
+      .pull-left {
+          float: left;
+          width: 47%;
+      }
+      .pull-right {
+          float: right;
+          width: 47%;
+      }
+      .pull-right ~ p {
+          clear: both;
+      }
+      #slideshow .slide .content code {
+          font-size: 0.8em;
+      }
+      #slideshow .slide .content pre code {
+          font-size: 0.9em;
+          padding: 15px;
+      }
+      .inverse {
+          background: #464a53;
+          color: #ffffff;
+          text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+          color: #f3f3f3;
+          line-height: 0.8em;
+      }
+      .inverse h3 {
+      	  color: #f3f3f3;
+      }
+      .inverse a {
+          color: #cdcfd2;
+      }
+
+      /* Slide-specific styling */
+      #slide-inverse .footnote {
+          bottom: 12px;
+          left: 20px;
+      }
+      #slide-how .slides {
+          font-size: 0.9em;
+          position: absolute;
+          top:  151px;
+          right: 140px;
+      }
+      #slide-how .slides h3 {
+          margin-top: 0.2em;
+      }
+      #slide-how .slides .first, #slide-how .slides .second {
+          padding: 1px 20px;
+          height: 90px;
+          width: 120px;
+          -moz-box-shadow: 0 0 10px #777;
+          -webkit-box-shadow: 0 0 10px #777;
+          box-shadow: 0 0 10px #777;
+      }
+      #slide-how .slides .first {
+          background: #fff;
+          position: absolute;
+          top: 20%;
+          left: 20%;
+          z-index: 1;
+      }
+      #slide-how .slides .second {
+          position: relative;
+          background: #fff;
+          z-index: 0;
+      }
+
+      /* Two-column layout */
+      .left-column {
+          width: 33%;
+          height: 92%;
+          float: left;
+      }
+      .left-column h2:last-of-type, .left-column h3:last-child {
+          color: #000;
+      }
+      .right-column {
+          width: 66%;
+          float: right;
+          padding-top: 1em;
+      }
+    </style>
+  </head>
+  <body>
+
+    <script src="remark-latest.min.js"></script>
+    <script>
+remark.macros.scale = function (percentage) {
+  var url = this;
+  return '<img src="' + url + '" style="width: ' + percentage + '" />';
+};
+
+    var slideshow = remark.create({
+  sourceUrl: 'content.md',
+  highlightLines: true
+});
+    </script>
+  </body>
+</html>
